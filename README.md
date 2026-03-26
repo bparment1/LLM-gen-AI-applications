@@ -1,4 +1,8 @@
 # LLM and generative AI introduction
+
+This repo is part of a course and workshop on Generative AI and LLM. 
+
+
 Using LLMs in various applications:
 
 1. LLM prompt engineering intro: [notebook](https://github.com/bparment1/LLM-gen-AI-applications/blob/main/llm-agent-ai-intro/llm-agent-ai.ipynb)
